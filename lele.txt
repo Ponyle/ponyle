@@ -5,6 +5,12 @@ hello world!11111111122222
 
 ponyle
 ponyleponyleponyleponyleponyleponyle
+<<<<<<< HEAD
 
 大大啊啊啊啊
 】也
+=======
+哒哒哒哒哒哒多多多多多多多多多多多多多多
+大大啊啊啊啊
+合并
+>>>>>>> jiale
